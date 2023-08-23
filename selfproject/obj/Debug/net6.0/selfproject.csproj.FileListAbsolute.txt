@@ -1,0 +1,14 @@
+E:\Workspace\selfproject\selfproject\bin\Debug\net6.0\selfproject.exe
+E:\Workspace\selfproject\selfproject\bin\Debug\net6.0\selfproject.deps.json
+E:\Workspace\selfproject\selfproject\bin\Debug\net6.0\selfproject.runtimeconfig.json
+E:\Workspace\selfproject\selfproject\bin\Debug\net6.0\selfproject.dll
+E:\Workspace\selfproject\selfproject\bin\Debug\net6.0\selfproject.pdb
+E:\Workspace\selfproject\selfproject\obj\Debug\net6.0\selfproject.GeneratedMSBuildEditorConfig.editorconfig
+E:\Workspace\selfproject\selfproject\obj\Debug\net6.0\selfproject.AssemblyInfoInputs.cache
+E:\Workspace\selfproject\selfproject\obj\Debug\net6.0\selfproject.AssemblyInfo.cs
+E:\Workspace\selfproject\selfproject\obj\Debug\net6.0\selfproject.csproj.CoreCompileInputs.cache
+E:\Workspace\selfproject\selfproject\obj\Debug\net6.0\selfproject.dll
+E:\Workspace\selfproject\selfproject\obj\Debug\net6.0\refint\selfproject.dll
+E:\Workspace\selfproject\selfproject\obj\Debug\net6.0\selfproject.pdb
+E:\Workspace\selfproject\selfproject\obj\Debug\net6.0\selfproject.genruntimeconfig.cache
+E:\Workspace\selfproject\selfproject\obj\Debug\net6.0\ref\selfproject.dll
